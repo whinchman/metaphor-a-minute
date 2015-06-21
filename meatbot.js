@@ -14,10 +14,10 @@ app.listen(3000);
 
 // insert your twitter app info here
 var T = new Twit({
-  consumer_key:         'NcLLB74kcASt9rMCRYnA', 
-  consumer_secret:      'N5yB79EizLj33D257BSzRskY5RIDFEQ2kFPXfgXSxM',
-  access_token:         '6848202-ZIIfrrmnt9veBlhslzZZ7X3Dva3G39bx3pnq8RxM59',
-  access_token_secret:  'cyq4NfoAVpcfkPM75ReapJXGPwz3Ur7F1kHG6WTAAU5EB'
+  consumer_key:         '', 
+  consumer_secret:      '',
+  access_token:         '',
+  access_token_secret:  ''
 });
 
 var statement =   "";
